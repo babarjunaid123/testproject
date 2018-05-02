@@ -6,4 +6,4 @@
       { id: '5', name: 'JSP & Servlet by Vishnu', category: 'Java', writer: 'Vishnu' },
       { id: '6', name: 'JPA by Vishnu', category: 'Java', writer: 'Vishnu' },
       { id: '7', name: 'Hibernate by Krishna', category: 'Hibernate', writer: 'Krishna' }
-    ];
+    ]
