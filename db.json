@@ -14,11 +14,6 @@
     "id": 3,
     "pname": "iphone 3",
     "price": "50000"
-  }
-
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+    }
+  ]
 }
